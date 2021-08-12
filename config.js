@@ -40,7 +40,7 @@ module.exports = {
       github: 'nalinghub',
       rss: '',
       vkontakte: '',
-      linkedin: '',
+      linkedin: 'nalin-mehra-569003184/',
       instagram: '',
       line: '',
       gitlab: '',
